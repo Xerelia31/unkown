@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Synaptix.aternos.me:47401",
+    "ip": "Synaptix.aternos.me",
     "port": 47401,
     "version": "",
     "try-creative": false
