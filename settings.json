@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "unkown",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Synaptix.aternos.me",
+    "ip": "Synaptix.aternos.me:47401",
     "port": 47401,
     "version": "",
     "try-creative": false
